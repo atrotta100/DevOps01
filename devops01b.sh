@@ -14,6 +14,7 @@ function show_menu() {
  
 }
 
+
 # Function IP
 function ip_address() {
         echo "System IP Address"
